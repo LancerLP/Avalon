@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#humanity  ",
+      "color": {
+        "a": 1,
+        "rgb": 2994150
+      }
+    },
+    {
+      "query": "tag:#date",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#location  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#event  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701180
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.36314878892734,
+  "lineSizeMultiplier": 0.651038062283737,
+  "collapse-forces": true,
+  "centerStrength": 0.410034602076125,
+  "repelStrength": 5.98615916955017,
+  "linkStrength": 0.403114186851211,
+  "linkDistance": 224,
+  "scale": 1.2053900354165528,
+  "close": false
+}
