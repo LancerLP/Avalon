@@ -6,6 +6,7 @@ The United Colonies is the primary governing body of [humanity](Humanity) in the
 Founded in [[23rd Century|2364]], after the end of the [[Unification Wars]], by representatives from the [[Alliance of Colonies]] and the [[United Nations of Earth]], the United Colonies primary focus lies in the protection of [[List of Human Settlements|human settlements]] from external as well as internal threats. 
 In this goal, the United Colonies allows its member systems a large degree of freedom, acting less like a government and more like an intergovernmental organisation.
 The headquarters of the United Colonies is located on Odyssey in the [[Alpha Centauri]] system.
+The current Prime Minister of the United Colonies is Amelia Theodore Bernstein.
 ***
 # Table of Contents
 1. [Structure](#Structure)
@@ -14,7 +15,7 @@ The headquarters of the United Colonies is located on Odyssey in the [[Alpha Cen
    1.3 [Military](#Military)
    1.4 [Policing](#Policing)
    1.5 [The Council](#The-Council)
-1. [History](#History)
+2. [History](#History)
    2.1 [Creation](#Creation)
    2.2 [The Second Sphere Expansion](#The-Second-Sphere-Expansion)
    2.3 [The Alderamin Campaign](#The-Alderamin-Campaign)
@@ -52,8 +53,21 @@ The United Colonies Air Force (UCAF) is the largest of the specialized branches.
 More specialized branches exists among all branches of the military, though their exact operations and mission statements are usually of a more clandestine nature.
 All branches of the military are ultimately under the jurisdiction of MIL-COM which has its headquarters on the moon of Titan in the Sol System.
 ### Policing
-The Interplanetary Police Bureau (IPB) exists as an assortment of 
+The Interplanetary Police Bureau (IPB) exists as an interplanetary, trans-national peacekeeping force. Their founding can be traced back to the years just after the fall of the [[Dark Star]] Group, envisioned as a future counter to corruption and crime across the United Colonies.
+The IPB recruits its members from local peacekeeping forces, militias and security contractors.
+Members of the IPB enjoy a large amount of freedom when it comes to the execution of their investigations, being subject to little oversight while they are working.
+They are still beholden to UC laws, though they are able to bend it in special situations.
+The IPB has no centralized headquarters, instead choosing to operate out of multiple mobile capital ships, spread across UC territory. 
+Each member of the IPB has access to a small personal spacecraft, though most seldom make use of it, preferring the greater degree of subtlety and discretion afforded by public transportation and commercial vessels.   
 ### The-Council
+The United Colonies Council is the true ruling body of the United Colonies. The Council is made up of five members selected from the most important institutions across UC space.
+Namely, the Senate, the Representative, the Supreme Court, the Military and the Industrial.
+Both the Senate and the Representative select their Councillor on a democratic basis by having their members vote in an election which is usually held shortly after the general election, in the Senates case, or once every 4 years in the Representatives case.
+The high judges of the Supreme Court send one of their members to be a Councillor, though the position is considered honorary in nature, as the Supreme Courts small size allows it to effectively vote on council matters as a whole.
+The position of Councillor given to the Military is usually awarded to the highest ranking member of MIL-COM, though some exceptions have been made throughout the history of the UC.
+Lastly, the Industrial, is a special position which is afforded to the most influential CEO of the UCs private sector.
+The position is considered controversial with many former holders of the title having been accused and convicted on the count of corruption by the the IPB.
+While the council itself has little additional power compared to the organisations they embody, their influence stems from the additional level of cross-institution communication and their direct access to the Prime Minister of the United Colonies at all times. All this gives them the power to effectively shift the nations focus on certain topics to a large degree.
 ***
 # History
 ###    Creation
