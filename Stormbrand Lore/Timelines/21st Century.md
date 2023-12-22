@@ -1,0 +1,15 @@
+> "The 21st Century marked a major shift in the development of human civilization. Never has our species come closer to extinction, never has a century been marked by so many disasters, yet so many shining lights of hope. "
+> -Briggs Meyers, Chief Historian, UC Museum for Earth History
+
+|    | Date | Location | Description | Actors |
+|---|---|---|---|---| 
+| 2015 | December | Earth: <br />Paris | The Paris Agreement is struck in Paris, France. <br />Signatory nation states pledge to limit global warming to 1.5°C. <br />The treaty is legally binding. | 195 nation states on Earth |
+| 2019 | | Earth | The Covid-19 pandemic halts civil life around the globe. <br />Reactionaries and conspiracy theorists start a heavy campaign of disinformation. <br />Right Wing ideologies rise around the globe. <br /> A vaccine is soon discovered but the pandemic rages on for multiple years. | |
+| 2024 | November | Earth, Luna | The Artemis 2 moon mission marks the start of a new age of space exploration. <br /> For the first time in decades, humans walk on their home planets moon again. | United States of America <br />Reid Wiseman <br />Victor Glover <br />Christina Koch <br />Jeremy Hansen |
+| 2029 | June - October | Earth: <br />European Union | FRONTEX, the EUs border security agency stands under heavy scrutiny after one of their patrol ships sinks a refugee barge off the coast of Italy, abandoning any surviving occupants to drown in the Mediterranean sea. <br />The people responsible are fired, though no structural change to FRONTEX is made. Far Right politicians across the EU use the incident to incite violence against migrants.| European Unition <br /> FRONTEX |
+| 2033 | July | Earth |Global Warming officially passes 1.5°C, marking the failure of the Paris Agreement. A small uptick in Eco-Terrorism occurs, though national governments are quick to respond with harsh punishments and police crackdowns. | |
+| 2047 | May | Earth: <br />USA | Hurricane Samantha hits the United States East Coast. <br />The state of Florida is among the first to be hit in what would be a 6 month long natural disaster. By the time the hurricane dissipates, three million people are dead, with many more missing, across the US East Coast. <br />Florida collapses as the US government struggles to deal with the multitude of humanitarian crises breaking out across its territory.
+| 2049 | April | Earth: <br />North Africa | Large parts of northern Africa fall victim to an ongoing heatwave. Average daily temperatures rise to over 55° C. By September 2049 large parts of the area are considered uninhabitable. Climate refugees flee the area, many find shelter in southern Africa and the Middle East. A sizable portion begins to journey towards the European Union.
+| 2050 | October | Earth: <br />Australia | Unrivaled wildfires rage across the Australian continent. Australian emergency response forces are quickly overwhelmed without international help. By the time the fires die down most Australian cities have fallen, either to the flames or the smoke. By early 2051, Australia is considered uninhabited and uninhabitable.
+
+#date 
