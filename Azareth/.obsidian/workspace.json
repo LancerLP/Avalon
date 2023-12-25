@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "9de91304c60a7829",
+    "id": "227cfbd4e777892c",
     "type": "split",
     "children": [
       {
-        "id": "cc2030a52d07f1d1",
+        "id": "ca5cb54db3ebba86",
         "type": "tabs",
         "children": [
           {
-            "id": "363d777c2f2681d7",
+            "id": "6541a004de834e67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfce5e4c4d1c228d",
+    "id": "5714303bba992f72",
     "type": "split",
     "children": [
       {
-        "id": "c4bf1b25bf65fe0a",
+        "id": "62984b4cb32c960d",
         "type": "tabs",
         "children": [
           {
-            "id": "a989e902b7c464e4",
+            "id": "38c74af10026dbcd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "168c89a9ba313770",
+            "id": "70de69386028aecf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "b48ce9eb2cf69681",
+            "id": "8ecf8ef782b0c6d3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "98d9a60f97f169cb",
+    "id": "f16d7c9df81fa327",
     "type": "split",
     "children": [
       {
-        "id": "a8c2f3fd36dba1d4",
+        "id": "bccbe50e758c9c21",
         "type": "tabs",
         "children": [
           {
-            "id": "938442a482b41f88",
+            "id": "cf466974e73b40c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "9a06b096fd38d645",
+            "id": "8ee8dfaae25994f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b0806ab4c7101625",
+            "id": "a509f31e8b16dbbb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "d2f96be3c5b825f5",
+            "id": "7ec7010618e26097",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session 4.md"
+              }
             }
           }
         ]
@@ -138,43 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363d777c2f2681d7",
+  "active": "6541a004de834e67",
   "lastOpenFiles": [
-    "Characters/PCs/Nyche Narynh.md",
-    "Characters/PCs/Cassidy Navarro.md",
-    "Characters/PCs/Merikh.md",
-    "Characters/PCs/Caspian Gilot.md",
-    "Characters/PCs",
-    "Locations/Planets/Avalon IV/Planet; Laconia.md",
-    "Locations/Planets/Avalon III/Planet; Ecumene.md",
-    "Locations/Planets/Avalon II/Planet; Endymion.md",
-    "Locations/Planets/Avalon I/Planet; Acheron.md",
-    "Locations/Planets/Avalon V/Planet; Thebe.md",
-    "Locations/The Avalon System.md",
-    "Characters/Fenrir.md",
-    "Characters/Hayes.md",
-    "Characters/Richard Knight.md",
-    "Characters/ARDeNt.md",
-    "Characters/Asher Dene.md",
-    "Characters/Elsie Treer.md",
-    "Characters/Emperor Dracon Moore.md",
-    "Factions/The Seraphims.md",
-    "Factions/The Outsiders.md",
-    "Factions/The Ancients.md",
-    "Factions/The Avalonian Federation.md",
-    "Factions/The Ilosian Resistance.md",
-    "Factions/The Ilosian Provisional Government.md",
-    "Factions/The Imperium.md",
-    "Characters/Untitled",
-    "Factions",
-    "Characters",
-    "Acheron.md",
-    "Locations/Planets/Avalon V/Moon; Ilos.md",
-    "Locations/Planets/Avalon VIII",
-    "Locations/Planets/Avalon VII",
-    "Locations/Planets/Avalon VI",
-    "Locations/Planets/Avalon V",
-    "Locations/Planets/Avalon IV",
-    "Locations/Planets/Avalon III"
+    "Session 2.md",
+    "Session 4.md",
+    "Session 3.md",
+    "Session 1.md",
+    "Spell Notes I; Lore's Flaming Slash.md"
   ]
 }
