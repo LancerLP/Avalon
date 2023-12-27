@@ -4,15 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2030a52d07f1d1",
+        "id": "608e7527fe3f9e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "363d777c2f2681d7",
+            "id": "69fb099b8a3ed0e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d192cf84b8cb5a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3513b9700b04b150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "282783ec0fb5483f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850a64ad9aa7de5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dostojewski.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e7409cbacbbc5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md"
+              }
             }
           }
         ]
@@ -138,43 +194,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363d777c2f2681d7",
+  "active": "3513b9700b04b150",
   "lastOpenFiles": [
+    "Characters/Dostojewski.md",
+    "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
+    "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+    "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
+    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Shield of Ice.md",
+    "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Icy Step.md",
+    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
+    "Spells/Custom Spells/Dostojewski/Cantrip/Dostojewski's Cold Inertia.md",
+    "Pasted image 20231227011511.png",
+    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Armor of Ice.md",
+    "Spells/Custom Spells/Dostojewski/5th Level",
+    "Spells/Custom Spells/Dostojewski/4th Level",
+    "Spells/Custom Spells/Dostojewski/2nd Level",
+    "Spells/Custom Spells/Dostojewski/1st Level",
+    "Spells/Custom Spells/Dostojewski/Cantrip",
+    "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Wall of Ice.md",
+    "Spells/Vanilla Spells",
+    "Spells/Custom Spells/Dostojewski",
+    "Spells/Custom Spells",
+    "Spells",
+    "Spells/Vanilla Spells/Dancing Lights.md",
+    "Sessions/Session 4; The Machine Men.md",
+    "Characters/ARDeNt.md",
+    "Locations/Planets/Avalon V/Safehouse Songbird.md",
+    "Characters/Julian Laplace.md",
+    "Factions/Emperors Chosen.md",
+    "Sessions/Session 1; The Prison.md",
+    "Sessions/Session 3; The Array.md",
+    "Sessions/Session 2; Reaching Songbird.md",
+    "Sessions",
     "Characters/PCs/Nyche Narynh.md",
     "Characters/PCs/Cassidy Navarro.md",
     "Characters/PCs/Merikh.md",
     "Characters/PCs/Caspian Gilot.md",
-    "Characters/PCs",
     "Locations/Planets/Avalon IV/Planet; Laconia.md",
-    "Locations/Planets/Avalon III/Planet; Ecumene.md",
-    "Locations/Planets/Avalon II/Planet; Endymion.md",
-    "Locations/Planets/Avalon I/Planet; Acheron.md",
-    "Locations/Planets/Avalon V/Planet; Thebe.md",
-    "Locations/The Avalon System.md",
-    "Characters/Fenrir.md",
-    "Characters/Hayes.md",
-    "Characters/Richard Knight.md",
-    "Characters/ARDeNt.md",
-    "Characters/Asher Dene.md",
-    "Characters/Elsie Treer.md",
-    "Characters/Emperor Dracon Moore.md",
-    "Factions/The Seraphims.md",
-    "Factions/The Outsiders.md",
-    "Factions/The Ancients.md",
-    "Factions/The Avalonian Federation.md",
-    "Factions/The Ilosian Resistance.md",
-    "Factions/The Ilosian Provisional Government.md",
-    "Factions/The Imperium.md",
-    "Characters/Untitled",
-    "Factions",
-    "Characters",
-    "Acheron.md",
-    "Locations/Planets/Avalon V/Moon; Ilos.md",
-    "Locations/Planets/Avalon VIII",
-    "Locations/Planets/Avalon VII",
-    "Locations/Planets/Avalon VI",
-    "Locations/Planets/Avalon V",
-    "Locations/Planets/Avalon IV",
-    "Locations/Planets/Avalon III"
+    "Locations/Planets/Avalon III/Planet; Ecumene.md"
   ]
 }
