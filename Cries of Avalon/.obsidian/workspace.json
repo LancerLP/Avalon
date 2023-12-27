@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+                "file": "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+                "file": "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+                "file": "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md"
+                "file": "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md"
               }
             }
           }
@@ -196,14 +196,15 @@
   },
   "active": "3513b9700b04b150",
   "lastOpenFiles": [
+    "Spells/Custom Spells/Dostojewski/Cantrip/Dostojewski's Cold Inertia.md",
+    "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Wall of Ice.md",
+    "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
     "Characters/Dostojewski.md",
     "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
-    "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
     "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
     "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Shield of Ice.md",
     "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Icy Step.md",
-    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
-    "Spells/Custom Spells/Dostojewski/Cantrip/Dostojewski's Cold Inertia.md",
     "Pasted image 20231227011511.png",
     "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Armor of Ice.md",
     "Spells/Custom Spells/Dostojewski/5th Level",
@@ -211,7 +212,6 @@
     "Spells/Custom Spells/Dostojewski/2nd Level",
     "Spells/Custom Spells/Dostojewski/1st Level",
     "Spells/Custom Spells/Dostojewski/Cantrip",
-    "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Wall of Ice.md",
     "Spells/Vanilla Spells",
     "Spells/Custom Spells/Dostojewski",
     "Spells/Custom Spells",
