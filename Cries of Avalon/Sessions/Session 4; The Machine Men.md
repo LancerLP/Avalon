@@ -24,7 +24,7 @@ Things the party can pick up on:
 	- (16) Some very slight hints of an Acheron accent lay beneath them.
 - (Investigation 14) The man is armed. Looks like he has a rapier.
 - (Touch) The man feels somewhat cold to the touch.
-- (Insight 16) Something seems off about the mans demeanor. Feels uncanny.
+- (Insight 16) Something seems off about the mans demeanour. Feels uncanny.
 
 If the party figures out his true identity or attacks him out of suspicion he will immediately fight back with his full force.
 
