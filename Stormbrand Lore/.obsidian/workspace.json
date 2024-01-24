@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelines/21st Century.md",
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/21st Century.md",
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/21st Century.md",
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/21st Century.md"
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md"
               }
             }
           }
@@ -149,35 +149,39 @@
   },
   "active": "5461efa3acd57c0c",
   "lastOpenFiles": [
-    "Timelines/Timeline Overview.md",
-    "Governments/List of Governments.md",
-    "Governments/Alderamin Technocracy.md",
-    "Governments/The United Colonies.md",
+    "Story/Story I; Stanton's War/Epilogue; Revelations.md",
+    "Story/Story I; Stanton's War/Act III; The Faceoff.md",
+    "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
+    "Story/Story I; Stanton's War/Interlude II; Avalon.md",
+    "Story/Story I; Stanton's War/Act II; The Battle for Epsilon Eridanus.md",
+    "Story/Story I; Stanton's War/Interlude I; Alpha Centauri.md",
+    "Story/Story I; Stanton's War/Act I; The Arcturus Conspiracy.md",
+    "Story/Story I; Stanton's War",
     "Timelines/21st Century.md",
-    "Timelines/25th Century.md",
-    "Timelines/24th Century.md",
-    "Timelines/23rd Century.md",
-    "Timelines/22nd Century.md",
-    "Human Settlements/Alderamin.md",
+    "Story",
+    "Species/Humanity.md",
     "Species/Artificial Intelligence.md",
-    "Historical Events/Project ARK.md",
-    "Human Settlements/List of Human Settlements.md",
-    "Governments/United Nations of Earth.md",
     "Human Settlements/Sol.md",
     "Human Settlements/Sirius.md",
     "Human Settlements/Proxyon.md",
+    "Human Settlements/List of Human Settlements.md",
+    "Human Settlements/Alpha Centauri.md",
+    "Human Settlements/Alderamin.md",
+    "Governments/Alliance of Colonies.md",
+    "Governments/List of Governments.md",
+    "Governments/United Nations of Earth.md",
+    "Governments/The United Colonies.md",
+    "Governments/Alderamin Technocracy.md",
+    "Historical Events/Unification Wars.md",
+    "Historical Events/Project ARK.md",
+    "Timelines/Timeline Overview.md",
+    "Timelines/25th Century.md",
+    "Timelines/24th Century.md",
     "Historical Events",
     "Timelines",
     "Species",
     "Governments",
-    "Human Settlements/Alpha Centauri.md",
     "Human Settlements",
-    "Species/Humanity.md",
-    "Historical Events/Unification Wars.md",
-    "Human Settlements/Alpha Centauri.md",
-    "Governments/Alliance of Colonies.md",
-    "Untitled.canvas",
-    "2023-12-07.md",
-    "24th.md"
+    "Untitled.canvas"
   ]
 }
