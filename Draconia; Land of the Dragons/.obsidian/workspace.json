@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PCs/Nathaniel.md",
+                "file": "Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PCs/Nathaniel.md",
+                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PCs/Nathaniel.md",
+                "file": "Session Notes/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PCs/Nathaniel.md"
+                "file": "Session Notes/Session 1.md"
               }
             }
           }
@@ -163,7 +163,11 @@
   "lastOpenFiles": [
     "Sessions/Session 1.md",
     "Characters/PCs/Nathaniel.md",
+<<<<<<< HEAD
     "Sessions",
+=======
+    "Session Notes/Session 1.md",
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
     "History",
     "Events",
     "Locations",
