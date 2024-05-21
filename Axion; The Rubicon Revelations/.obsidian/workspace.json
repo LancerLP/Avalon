@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "57d15c5bd5aff688",
+    "id": "52dfd4da842e80e9",
     "type": "split",
     "children": [
       {
-        "id": "00f1c75f6c01fc85",
+        "id": "93027a1a6d94f0c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5461efa3acd57c0c",
+            "id": "43206d0ae1c1e3db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfb4b735e554485c",
+    "id": "049da069704b5028",
     "type": "split",
     "children": [
       {
-        "id": "e4a8999fd8613ee0",
+        "id": "3f21938e3e16bb05",
         "type": "tabs",
         "children": [
           {
-            "id": "1eeaf45297a93530",
+            "id": "c593394d844c8902",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "8bc39024966cf277",
+            "id": "a82669e2ba6084be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "cc006bdebc6b28a7",
+            "id": "ff33530e792d70bd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "529a1019edeed696",
+    "id": "60096f248012fe63",
     "type": "split",
     "children": [
       {
-        "id": "f2669babe22c39c2",
+        "id": "0ba54215d1a786b7",
         "type": "tabs",
         "children": [
           {
-            "id": "87b704c23ed55609",
+            "id": "3422b52af6223193",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "018c7f70a4594eb5",
+            "id": "f1bcba76daa7e048",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aefc433e59a14350",
+            "id": "e644d3bc872540e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,15 +120,16 @@
             }
           },
           {
-            "id": "b537cdb1ad51fdd9",
+            "id": "046f2c954c263cb3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story Arc Planner/Arc 1; New Arrivals.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,36 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5461efa3acd57c0c",
+  "active": "43206d0ae1c1e3db",
   "lastOpenFiles": [
-    "Governments/The United Colonies.md",
-    "Timelines/Timeline Overview.md",
-    "Timelines/25th Century.md",
-    "Timelines/24th Century.md",
-    "Timelines/23rd Century.md",
-    "Timelines/22nd Century.md",
-    "Timelines/21st Century.md",
-    "Species/Humanity.md",
-    "Species/Artificial Intelligence.md",
-    "Human Settlements/Sol.md",
-    "Human Settlements/Sirius.md",
-    "Human Settlements/Proxyon.md",
-    "Human Settlements/List of Human Settlements.md",
-    "Human Settlements/Alpha Centauri.md",
-    "Human Settlements/Alderamin.md",
-    "Historical Events/Unification Wars.md",
-    "Historical Events/Project ARK.md",
-    "Governments/United Nations of Earth.md",
-    "Governments/List of Governments.md",
-    "Governments/Alliance of Colonies.md",
-    "Governments/Alderamin Technocracy.md",
-    "Historical Events",
-    "Timelines",
-    "Species",
-    "Governments",
-    "Human Settlements",
-    "Untitled.canvas",
-    "2023-12-07.md",
-    "24th.md"
+    "Story Arc Planner/Arc 1; New Arrivals.md",
+    "Story Arc Planner",
+    "Sessions/Session 1.md",
+    "Welcome.md",
+    "Sessions"
   ]
 }
