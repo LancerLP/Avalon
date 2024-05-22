@@ -13,43 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26207e1c79b494d4",
+            "id": "e8cb6ef457a3c2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Liam Aster/Journal/Entry II; Bellsprout II.md",
+                "file": "Session Notes/Session 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "395547b39c5360d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19fffc3bdb185029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Session Notes/Session 11.md"
               }
             }
           }
@@ -176,18 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6541a004de834e67",
+  "active": "e8cb6ef457a3c2cb",
   "lastOpenFiles": [
-    "PCs/Liam Aster/Journal/Entry III; Bellsprout III.md",
-    "Session Notes/Session 3.md",
-    "PCs/Liam Aster/Journal/Entry II; Bellsprout II.md",
-    "Session Notes/Session 2.md",
+    "PCs/Liam Aster/Journal/Entry XI; Conspiracy.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 10.md",
     "PCs/Liam Aster/Journal/Entry I; Bellsprout I.md",
-    "PCs/Liam Aster/Journal/Entry V; Kronwar I.md",
+    "PCs/Liam Aster/Journal/Entry X; The Prisoner and the King.md",
+    "PCs/Liam Aster/Journal/Entry IX; The Banquet.md",
+    "Session Notes/Session 8.md",
+    "PCs/Liam Aster/Journal/Entry VIII; New Ermindrud.md",
+    "Session Notes/Session 7.md",
+    "PCs/Liam Aster/Journal/Entry VII; Lumi.md",
+    "PCs/Liam Aster/Journal/Entry VI; Minerva.md",
+    "Session Notes/Session 6.md",
     "Session Notes/Session 4.md",
-    "PCs/Liam Aster/Journal/Entry IV; Travel I.md",
-    "PCs/Liam Aster/Journal",
     "Session Notes/Session 5.md",
+    "PCs/Liam Aster/Journal/Entry II; Bellsprout II.md",
+    "Session Notes/Session 3.md",
+    "PCs/Liam Aster/Journal/Entry V; Kronwar I.md",
+    "PCs/Liam Aster/Journal/Entry IV; Travel I.md",
+    "PCs/Liam Aster/Journal/Entry III; Bellsprout III.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "PCs/Liam Aster/Journal",
     "Other",
     "Events",
     "Organisations",
@@ -197,7 +193,6 @@
     "PCs/Keshera Kaslana",
     "PCs/Aster",
     "PCs/Liam Aster",
-    "Session Notes/Session 1.md",
     "PCs/Liam Aster/Spell Notes I; Lore's Flaming Slash.md"
   ]
 }

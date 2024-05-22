@@ -1,4 +1,4 @@
-It has been a while since I've last wrote down anything of note in this journal.  
+It has been a while since I last wrote down anything of note in this journal.  
 And to tell the truth, it was not only my infuriating lack of leads, but also the sheer banality of the few pieces of information which I did manage to come across.  
 No matter where I went, no matter how many inquiries into the truly staggering amount of missing people I made, I was always confronted by that same air of quiet indifference.  
 "All information is with the council," they say, "we keep none of the records here," they spit!  

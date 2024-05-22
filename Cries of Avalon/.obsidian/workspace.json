@@ -23,8 +23,12 @@
             "id": "d26695b61131a978",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4; The Machine Men.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -40,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Penumbrite.md",
+                "file": "Sessions/Session 4; The Machine Men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Penumbrite.md",
+                "file": "Sessions/Session 4; The Machine Men.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Penumbrite.md"
+                "file": "Sessions/Session 4; The Machine Men.md"
               }
             }
           }
@@ -167,24 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4404c169d8f182",
+  "active": "d26695b61131a978",
   "lastOpenFiles": [
+    "Sessions/Session 3; The Array.md",
+    "Sessions/Session 2; Reaching Songbird.md",
+    "Sessions/Session 1; The Prison.md",
+    "Sessions/In Session Stats.md",
+    "Resources/Penumbrite.md",
     "Locations/Planets/Avalon I/Planet; Acheron.md",
     "Factions/The Imperium.md",
     "Factions/The Ancients.md",
     "Factions/Emperors Chosen.md",
-    "Resources/Penumbrite.md",
     "Resources",
     "Events",
     "Locations/Planets/Avalon I/Demeter City.md",
     "Events/Project Amrita.md",
     "Factions/Emperor's Blade.md",
     "Sessions/Session 4; The Machine Men.md",
-    "Sessions/Session 1; The Prison.md",
-    "Sessions/Session 2; Reaching Songbird.md",
-    "Sessions/Session 3; The Array.md",
     "Characters/Dostojewski.md",
-    "Sessions/In Session Stats.md",
     "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
     "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
     "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",

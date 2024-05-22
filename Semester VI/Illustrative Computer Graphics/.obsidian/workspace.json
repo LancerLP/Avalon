@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "57d15c5bd5aff688",
+    "id": "8af6f2e72dd85043",
     "type": "split",
     "children": [
       {
-        "id": "00f1c75f6c01fc85",
+        "id": "076cb1f4ef3cca93",
         "type": "tabs",
         "children": [
           {
-            "id": "5461efa3acd57c0c",
+            "id": "97d39ef1eb4ba13f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
+                "file": "Vorlesung I.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c07fc72413c7eab3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bfb4b735e554485c",
+    "id": "2eccd654ab74a769",
     "type": "split",
     "children": [
       {
-        "id": "e4a8999fd8613ee0",
+        "id": "84487280e3035779",
         "type": "tabs",
         "children": [
           {
-            "id": "1eeaf45297a93530",
+            "id": "7da8bf73e7bf748e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "8bc39024966cf277",
+            "id": "83c4e4e6550c6889",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +58,7 @@
             }
           },
           {
-            "id": "cc006bdebc6b28a7",
+            "id": "be801dc4f4b98e64",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "529a1019edeed696",
+    "id": "06f66e6ae3842ffe",
     "type": "split",
     "children": [
       {
-        "id": "f2669babe22c39c2",
+        "id": "101fe28fb66e84f7",
         "type": "tabs",
         "children": [
           {
-            "id": "87b704c23ed55609",
+            "id": "7da07e78cf70ffe5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vorlesung I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,18 +97,19 @@
             }
           },
           {
-            "id": "018c7f70a4594eb5",
+            "id": "96c02f662357b4b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vorlesung I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aefc433e59a14350",
+            "id": "4664f6de189b5731",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,15 +120,16 @@
             }
           },
           {
-            "id": "b537cdb1ad51fdd9",
+            "id": "72bb0968f7b61999",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vorlesung I.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,41 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07fc72413c7eab3",
+  "active": "97d39ef1eb4ba13f",
   "lastOpenFiles": [
-    "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
-    "Stormbrand; The Game",
-    "Stormbrand; The Game/Gameplay Loop.md",
-    "Story/Story I; Stanton's War/Epilogue; Revelations.md",
-    "Story/Story I; Stanton's War/Act III; The Faceoff.md",
-    "Story/Story I; Stanton's War/Interlude II; Avalon.md",
-    "Story/Story I; Stanton's War/Act II; The Battle for Epsilon Eridanus.md",
-    "Story/Story I; Stanton's War/Interlude I; Alpha Centauri.md",
-    "Story/Story I; Stanton's War/Act I; The Arcturus Conspiracy.md",
-    "Story/Story I; Stanton's War",
-    "Timelines/21st Century.md",
-    "Story",
-    "Species/Humanity.md",
-    "Species/Artificial Intelligence.md",
-    "Human Settlements/Sol.md",
-    "Human Settlements/Sirius.md",
-    "Human Settlements/Proxyon.md",
-    "Human Settlements/List of Human Settlements.md",
-    "Human Settlements/Alpha Centauri.md",
-    "Human Settlements/Alderamin.md",
-    "Governments/Alliance of Colonies.md",
-    "Governments/List of Governments.md",
-    "Governments/United Nations of Earth.md",
-    "Governments/The United Colonies.md",
-    "Governments/Alderamin Technocracy.md",
-    "Historical Events/Unification Wars.md",
-    "Historical Events/Project ARK.md",
-    "Timelines/Timeline Overview.md",
-    "Historical Events",
-    "Timelines",
-    "Species",
-    "Governments",
-    "Human Settlements",
-    "Untitled.canvas"
+    "Welcome.md",
+    "Vorlesung I.md"
   ]
 }
