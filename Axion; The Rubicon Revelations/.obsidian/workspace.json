@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
+                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Arc Planner/Arc 1; New Arrivals.md",
+                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Arc Planner/Arc 1; New Arrivals.md"
+                "file": "Sessions/Session 1.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "43206d0ae1c1e3db",
   "lastOpenFiles": [
+    "Campaign Canvas.canvas",
+    "Sessions/Session 1.md",
     "Story Arc Planner/Arc 1; New Arrivals.md",
     "Story Arc Planner",
-    "Sessions/Session 1.md",
     "Welcome.md",
     "Sessions"
   ]
