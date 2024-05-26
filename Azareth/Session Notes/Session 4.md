@@ -28,5 +28,7 @@ Owned by Elena
 The abductions have not reached this place.
 
 Savira knows about the abductions and the monsters.
-Savire disappeared into thin air.
+Savira disappeared into thin air.
 She left behind a letter.
+
+[[Session 5|Next Session]]

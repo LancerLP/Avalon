@@ -1,6 +1,6 @@
 Currently staying in a West Keshaan village called Bellsprout, the city of taverns. Kleinstadt.
 
-Tavern is called "Fauns and Feathers". Currently renting a room there. Dark, brooding elf at bar (barkeep). Selvira is tavernkeep (Yorna is wife (FAIRY! STAY AWAY!)
+Tavern is called "Fauns and Fairies". Currently renting a room there. Dark, brooding elf at bar (barkeep). Selvira is tavernkeep (Yorna is wife (FAIRY! STAY AWAY!)
 
 Was approached by a cloaked figure covered by many clothes. They asked to sit down at my table.
 

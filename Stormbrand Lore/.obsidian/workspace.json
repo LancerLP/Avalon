@@ -11,15 +11,29 @@
             "id": "5461efa3acd57c0c",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
+              "type": "graph",
+              "state": {}
+=======
               "type": "markdown",
               "state": {
-                "file": "Timelines/21st Century.md",
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
                 "mode": "source",
                 "source": false
               }
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+            }
+          },
+          {
+            "id": "c07fc72413c7eab3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/21st Century.md",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+>>>>>>> 9f2c9a3244cdb11f7f9a59a834613570ff007180
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/21st Century.md",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+>>>>>>> 9f2c9a3244cdb11f7f9a59a834613570ff007180
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
+<<<<<<< HEAD
+              "state": {}
+=======
               "state": {
-                "file": "Timelines/21st Century.md"
+                "file": "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md"
               }
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+>>>>>>> 9f2c9a3244cdb11f7f9a59a834613570ff007180
             }
           }
         ],
@@ -147,37 +181,74 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5461efa3acd57c0c",
+  "active": "c07fc72413c7eab3",
   "lastOpenFiles": [
-    "Timelines/Timeline Overview.md",
-    "Governments/List of Governments.md",
-    "Governments/Alderamin Technocracy.md",
+<<<<<<< HEAD
+    "Story/Story I; Stanton's War/Prologue; The Serpentis Incident.md",
+    "Stormbrand; The Game",
+    "Stormbrand; The Game/Gameplay Loop.md",
+=======
+<<<<<<< HEAD
     "Governments/The United Colonies.md",
-    "Timelines/21st Century.md",
+    "Timelines/Timeline Overview.md",
     "Timelines/25th Century.md",
     "Timelines/24th Century.md",
     "Timelines/23rd Century.md",
     "Timelines/22nd Century.md",
-    "Human Settlements/Alderamin.md",
+    "Timelines/21st Century.md",
+=======
+>>>>>>> 9f2c9a3244cdb11f7f9a59a834613570ff007180
+    "Story/Story I; Stanton's War/Epilogue; Revelations.md",
+    "Story/Story I; Stanton's War/Act III; The Faceoff.md",
+    "Story/Story I; Stanton's War/Interlude II; Avalon.md",
+    "Story/Story I; Stanton's War/Act II; The Battle for Epsilon Eridanus.md",
+    "Story/Story I; Stanton's War/Interlude I; Alpha Centauri.md",
+    "Story/Story I; Stanton's War/Act I; The Arcturus Conspiracy.md",
+    "Story/Story I; Stanton's War",
+    "Timelines/21st Century.md",
+    "Story",
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+    "Species/Humanity.md",
     "Species/Artificial Intelligence.md",
-    "Historical Events/Project ARK.md",
-    "Human Settlements/List of Human Settlements.md",
-    "Governments/United Nations of Earth.md",
     "Human Settlements/Sol.md",
     "Human Settlements/Sirius.md",
     "Human Settlements/Proxyon.md",
+    "Human Settlements/List of Human Settlements.md",
+    "Human Settlements/Alpha Centauri.md",
+    "Human Settlements/Alderamin.md",
+<<<<<<< HEAD
+    "Historical Events/Unification Wars.md",
+    "Historical Events/Project ARK.md",
+    "Governments/United Nations of Earth.md",
+    "Governments/List of Governments.md",
+    "Governments/Alliance of Colonies.md",
+    "Governments/Alderamin Technocracy.md",
+=======
+    "Governments/Alliance of Colonies.md",
+    "Governments/List of Governments.md",
+    "Governments/United Nations of Earth.md",
+    "Governments/The United Colonies.md",
+    "Governments/Alderamin Technocracy.md",
+    "Historical Events/Unification Wars.md",
+    "Historical Events/Project ARK.md",
+    "Timelines/Timeline Overview.md",
+<<<<<<< HEAD
+=======
+    "Timelines/25th Century.md",
+    "Timelines/24th Century.md",
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
+>>>>>>> 9f2c9a3244cdb11f7f9a59a834613570ff007180
     "Historical Events",
     "Timelines",
     "Species",
     "Governments",
-    "Human Settlements/Alpha Centauri.md",
     "Human Settlements",
-    "Species/Humanity.md",
-    "Historical Events/Unification Wars.md",
-    "Human Settlements/Alpha Centauri.md",
-    "Governments/Alliance of Colonies.md",
+<<<<<<< HEAD
     "Untitled.canvas",
     "2023-12-07.md",
     "24th.md"
+=======
+    "Untitled.canvas"
+>>>>>>> f37c65da8f1fb590950b6f6f37d6b863380200ba
   ]
 }
