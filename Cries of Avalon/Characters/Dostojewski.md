@@ -11,6 +11,7 @@ Under the Emperors guidance, Theodore would begin to study magic, becoming a pow
 At the age of 22, Theodore, faced with a stagnation in his magical studies and desperate to live up to his fathers expectations, opted to join his fathers [[Project Amrita|Amrita]] project. 
 Theodore would undergo the grueling physical and mental strain associated with the project before eventually being hailed as the third successful participant of the project.
 Soon after, he would manifest special magical powers associated with the manipulation of temperature. In a controlled environment, given enough time, he was able to cool an object to almost 0°K, making him the most proficient Ice-Mage in the history of the Imperium.
+Now he is part of the [[Emperors Chosen]].
 
 ***
 ## Stats:
