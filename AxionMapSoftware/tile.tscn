@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://gqxmw705be1k"]
+
+[ext_resource type="Texture2D" uid="uid://c38s2sgv6llb" path="res://map/Desert WIP V2 (2).jpg" id="1_ssehg"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8usij"]
+
+[node name="Tile" type="Area2D"]
+
+[node name="DesertWipV2(1)" type="Sprite2D" parent="."]
+texture = ExtResource("1_ssehg")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(66, 51)
+shape = SubResource("RectangleShape2D_8usij")
