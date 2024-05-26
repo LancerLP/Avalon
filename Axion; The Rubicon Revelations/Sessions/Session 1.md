@@ -32,43 +32,51 @@ GM NOTE: Big, juicy fact for the GM only. Reminder of key motives, or major worl
 
 SCENE CINEMATIC:
 
-We write the year 215 of the Third Era, as three figures, chained and 
+We write the year 215 of the Third Era and three figures are once again escorted through the obsidian halls in which they were sentenced for crimes, not a week prior.
+A hot gust of air emerges from the large doors to the court room as they are slowly opened.
+The last time you were here, a tribunal of noble Genasi let judgement descend upon you, but this time, the large room with its podiums and rows of seats is empty, save for a lone figure, casually resting in the seat reserved for the head judge. His legs crossed, hands clasped together, a smirk on his face. With a wave of his right hand the guards exit the room, leaving you alone with the figure. "I apologise for having you dragged out of your cells at such a late time... you are those that I requested, correct? Mr. O'Ronnel, Amaris, Revaire...?"   
 
   
 
 LOCATION: 
 
-- Where is it?
+Where:
+	Immonia, Lanmoth. Capital City.  The Obsidian Palace.
     
-- 3 short facts about the location
-    
-- Use the senses!!
-    
+Facts:
+1) The Obsidian Palace is the largest prison in Lanmoth.
+2) The courtroom has an elevated area for the judges.
+3) Behind each seat the wall contains either a stream of fire, water, dirt or air. Only the central seat contains all four.
 
-- Sight, smell, sounds
-    
-- [Humans have a multitude of senses](https://en.wikipedia.org/wiki/Sense)
-    
-
-  
-
-WHO’S THERE:
-
-- NPCs? Monsters?
-    
-- 3 short facts about the NPCs or monsters
-    
-
-- Use the senses again! Feel, smell, sight, sounds… taste?
-    
-
-- What MOTIVATES the NPCs or monsters?
-    
-
-- ESSENTIAL for quick improv. 
-    
+Senses:
+	Smell: 
+		- Dusty air.
+		- Perfume that smells like cinder wood.
+	Sight:
+		- The man sitting on the chair above has medium length flaming red hair, that flows in a non existent wind.
+		- The man wears a symbol of the Lanmothian elite.
+	Sound:
+		- The faint rumbling of flames from the wall.
+		- Echoing footsteps on the obsidian floor.
+	Touch:
+		- Smooth surfaces.
 
   
+
+##### Characters:
+***
+Grand Duke Ignisaire
+1) Relaxed, cocky.
+2) Fine clothes of red, back and white fabric. Accents of silver.
+3) Invokes unease in the party.
+Motivation: Get the party to sign the contract.
+Alignment: Lawful Evil
+##### Stakes:
+The party could always be thrown back in prison again.
+##### Clues:
+Ignisaire once knew a devil.
+
+
 MOVE IT FORWARD:
 
 - Any Natural Hazards?
