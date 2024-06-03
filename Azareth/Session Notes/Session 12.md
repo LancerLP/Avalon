@@ -24,3 +24,12 @@ Gallant believes that they might have been looking for us.
 
 "We will not fall."
 
+We were attacked just before dawn.
+Four assailants, same weapons and equipment (Standardised?)
+
+Three were killed, one sustained heavy injuries but got away.
+
+We got a look into the rope trick pocket dimension.
+Empty. They must use a second spell to escape.
+Unlikely that they cast the spells themselves. Lack of items to cast spells found on the bodies.
+Third party involvement. (How does the third party know when to cast a spell? Scrying perhaps? But then why not close immediately after escape? No sending stones found... telepathic connection would have terminated at time of death, giving signal to close the space. Subdermal sending stone implant? Got to verify.)
