@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csvf8ghj81pfv"
-path="res://.godot/imported/HexGrid.png-43c8147b55c245bcaff0e160c6b82b04.ctex"
+uid="uid://c38s2sgv6llb"
+path="res://.godot/imported/Desert WIP V2 (2).jpg-2abf454e8caf30cc83b7a1112ff70975.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://grid/HexGrid.png"
-dest_files=["res://.godot/imported/HexGrid.png-43c8147b55c245bcaff0e160c6b82b04.ctex"]
+source_file="res://OldStuff/map/Desert WIP V2 (2).jpg"
+dest_files=["res://.godot/imported/Desert WIP V2 (2).jpg-2abf454e8caf30cc83b7a1112ff70975.ctex"]
 
 [params]
 

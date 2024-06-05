@@ -1,0 +1,39 @@
+[gd_scene load_steps=6 format=3 uid="uid://b3s2n35ms4b5b"]
+
+[ext_resource type="Script" path="res://world.gd" id="1_axe86"]
+[ext_resource type="PackedScene" uid="uid://dp0j8cek8j6lh" path="res://Units/Party/Amaris.tscn" id="2_71vja"]
+[ext_resource type="Script" path="res://UI/Camera.gd" id="2_gpep8"]
+[ext_resource type="PackedScene" uid="uid://b44on6pn8l8je" path="res://Units/Party/Revaire.tscn" id="4_et6mw"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_id1a0"]
+bg_color = Color(0.203922, 0.203922, 0.203922, 0.607843)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_blend = true
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+
+[node name="World" type="Node2D"]
+script = ExtResource("1_axe86")
+
+[node name="Camera" type="Camera2D" parent="."]
+limit_left = 0
+limit_top = 0
+script = ExtResource("2_gpep8")
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="Panel" type="Panel" parent="UI"]
+theme_override_styles/panel = SubResource("StyleBoxFlat_id1a0")
+
+[node name="Units" type="Node2D" parent="."]
+
+[node name="Amaris" parent="Units" groups=["units"] instance=ExtResource("2_71vja")]
+position = Vector2(468, 222)
+
+[node name="Revaire" parent="Units" groups=["units"] instance=ExtResource("4_et6mw")]
+position = Vector2(381, 271)

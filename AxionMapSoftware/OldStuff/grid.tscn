@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://1qv1s5dpvlen"]
 
-[ext_resource type="Texture2D" uid="uid://csvf8ghj81pfv" path="res://grid/HexGrid.png" id="1_s2bgf"]
+[ext_resource type="Texture2D" uid="uid://csvf8ghj81pfv" path="res://OldStuff/grid/HexGrid.png" id="1_s2bgf"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_nfafi"]
 
