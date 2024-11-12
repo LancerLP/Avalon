@@ -4,7 +4,7 @@
 ***
 The United Colonies is the primary governing body of [humanity](Humanity.md) in the the [[25th Century|25th century]].
 Founded in [[23rd Century|2364]], after the end of the [[Unification Wars]], by representatives from the [[Alliance of Colonies]] and the [[United Nations of Earth]], the United Colonies primary focus lies in the protection of [[List of Human Settlements|human settlements]] from external as well as internal threats. 
-In this goal, the United Colonies allows its member systems a large degree of freedom, acting less like a government and more like an intergovernmental organisation.
+In this goal, the United Colonies allows its member systems a large degree of freedom, acting less like a government and more like an intergovernmental organization.
 The headquarters of the United Colonies is located on Odyssey in the [[Alpha Centauri]] system.
 The current Prime Minister of the United Colonies is Amelia Theodore Bernstein.
 ***

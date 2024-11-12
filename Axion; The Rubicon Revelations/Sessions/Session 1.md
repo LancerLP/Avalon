@@ -34,7 +34,6 @@ SCENE CINEMATIC:
 
 We write the year 215 of the Third Era, as three figures, chained and 
 
-  
 
 LOCATION: 
 

@@ -8,18 +8,175 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43206d0ae1c1e3db",
+            "id": "db2cab0a51116a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Notes Session 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notes Session 2"
+            }
+          },
+          {
+            "id": "b5cb839b5be29472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
+          },
+          {
+            "id": "1a87bd6fe44e32c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free City of Arat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free City of Arat"
+            }
+          },
+          {
+            "id": "af316eb9c2fe173d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Session 4"
+            }
+          },
+          {
+            "id": "8e2067fe9dc8e49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
+            }
+          },
+          {
+            "id": "5e4e15228025b749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
+            }
+          },
+          {
+            "id": "b9b24077e2081da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 3&4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3&4"
+            }
+          },
+          {
+            "id": "9004efaadd5d7e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Session 3"
+            }
+          },
+          {
+            "id": "044faf775bf8457b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Session 5"
+            }
+          },
+          {
+            "id": "1404da8b6ec0d097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Free City of Arat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free City of Arat"
+            }
+          },
+          {
+            "id": "7d6a618fb44da271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 6"
+            }
+          },
+          {
+            "id": "b3f2ab143a82846d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Free City of Arat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free City of Arat"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -39,7 +196,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +213,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +223,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "60096f248012fe63",
@@ -85,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Notes Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +256,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes Session 4"
             }
           },
           {
@@ -102,10 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Notes Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes Session 4"
             }
           },
           {
@@ -116,7 +283,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +294,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 1.md"
-              }
+                "file": "Notes Session 4.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes Session 4"
             }
           }
         ]
@@ -146,11 +317,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43206d0ae1c1e3db",
+  "active": "b3f2ab143a82846d",
   "lastOpenFiles": [
-    "Campaign Canvas.canvas",
+    "Notes Session 6.md",
+    "Notes Session 5.md",
+    "Sessions/Session 6.md",
+    "Locations/Free City of Arat.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 3&4.md",
+    "People/The B-Team.md",
+    "Images",
+    "People",
+    "Locations",
+    "Images/Pasted image 20241110132151.jpg",
+    "Images/Pasted image 20241110132138.jpg",
+    "Images/Pasted image 20241110132116.jpg",
+    "Images/Pasted image 20241110132039.jpg",
+    "Images/Pasted image 20241110131826.jpg",
+    "Notes Session 4.md",
+    "Notes Session 3.md",
+    "Notes Session 2.md",
+    "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "Story Arc Planner/Arc 1; New Arrivals.md",
+    "Campaign Canvas.canvas",
     "Story Arc Planner",
     "Welcome.md",
     "Sessions"
