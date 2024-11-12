@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://1qv1s5dpvlen"]
+
+[ext_resource type="Texture2D" uid="uid://csvf8ghj81pfv" path="res://OldStuff/grid/HexGrid.png" id="1_s2bgf"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nfafi"]
+
+[node name="Grid" type="Area2D"]
+
+[node name="HexGrid" type="Sprite2D" parent="."]
+modulate = Color(1, 1, 1, 0.486275)
+self_modulate = Color(1, 1, 1, 0.396078)
+texture = ExtResource("1_s2bgf")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(26, 23)
+shape = SubResource("RectangleShape2D_nfafi")

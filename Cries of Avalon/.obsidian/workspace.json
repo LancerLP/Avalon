@@ -4,6 +4,17 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
+        "id": "d192cf84b8cb5a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3513b9700b04b150",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+=======
         "id": "65a6aafdb9eac3a3",
         "type": "tabs",
         "children": [
@@ -23,8 +34,12 @@
             "id": "d26695b61131a978",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4; The Machine Men.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -37,10 +52,11 @@
                 "mode": "source",
                 "source": false
               }
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Penumbrite.md",
+<<<<<<< HEAD
+=======
+                "file": "Sessions/Session 4; The Machine Men.md",
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +142,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Penumbrite.md",
+<<<<<<< HEAD
+=======
+                "file": "Sessions/Session 4; The Machine Men.md",
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +167,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
               "state": {
-                "file": "Resources/Penumbrite.md"
+                "file": "Sessions/Session 4; The Machine Men.md"
               }
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
             }
           }
         ]
@@ -167,30 +193,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4404c169d8f182",
+  "active": "d26695b61131a978",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Characters/Dostojewski.md",
+    "Project Amrita.md",
+    "Emperor's Blade.md",
+    "Demeter City.md",
+=======
+    "Sessions/Session 3; The Array.md",
+    "Sessions/Session 2; Reaching Songbird.md",
+    "Sessions/Session 1; The Prison.md",
+    "Sessions/In Session Stats.md",
+    "Resources/Penumbrite.md",
     "Locations/Planets/Avalon I/Planet; Acheron.md",
     "Factions/The Imperium.md",
     "Factions/The Ancients.md",
     "Factions/Emperors Chosen.md",
-    "Resources/Penumbrite.md",
     "Resources",
     "Events",
     "Locations/Planets/Avalon I/Demeter City.md",
     "Events/Project Amrita.md",
     "Factions/Emperor's Blade.md",
     "Sessions/Session 4; The Machine Men.md",
-    "Sessions/Session 1; The Prison.md",
-    "Sessions/Session 2; Reaching Songbird.md",
-    "Sessions/Session 3; The Array.md",
     "Characters/Dostojewski.md",
-    "Sessions/In Session Stats.md",
     "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
     "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
     "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Shatter Ice.md",
     "Spells/Custom Spells/Dostojewski/Cantrip/Dostojewski's Cold Inertia.md",
     "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Wall of Ice.md",
     "Spells/Custom Spells/Dostojewski/5th Level/Dostojewski's Forest of Ice.md",
+<<<<<<< HEAD
+    "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Pillar of Ice.md",
+    "Spells/Custom Spells/Dostojewski/4th Level/Dostojewski's Ice Skin.md",
+=======
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
     "Spells/Custom Spells/Dostojewski/1st Level/Dostojewski's Shield of Ice.md",
     "Spells/Custom Spells/Dostojewski/2nd Level/Dostojewski's Icy Step.md",
     "Pasted image 20231227011511.png",
@@ -205,6 +243,20 @@
     "Spells/Custom Spells",
     "Spells/Vanilla Spells/Dancing Lights.md",
     "Characters/ARDeNt.md",
+<<<<<<< HEAD
+    "Locations/Planets/Avalon V/Safehouse Songbird.md",
+    "Characters/Julian Laplace.md",
+    "Factions/Emperors Chosen.md",
+    "Sessions/Session 1; The Prison.md",
+    "Sessions/Session 3; The Array.md",
+    "Sessions/Session 2; Reaching Songbird.md",
+    "Sessions",
+    "Characters/PCs/Nyche Narynh.md",
+    "Characters/PCs/Cassidy Navarro.md",
+    "Characters/PCs/Merikh.md",
+    "Characters/PCs/Caspian Gilot.md"
+=======
     "Locations/Planets/Avalon V/Safehouse Songbird.md"
+>>>>>>> 63239d7099f0464eecdf1c3253523816e1d3964b
   ]
 }

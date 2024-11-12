@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3db6755b53a0c3cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f25de6a745604369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de459006e5127357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Pre-Session/Session I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949d66f77c9f3f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Pre-Session/Session I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8f4d4bab7399e24",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d73ad3d9d1ca69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5866edb2686fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e13be8f5396325c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69d3ae471c35eda2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a118d7d100fde5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1592cf2f5bc08ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86da45734e2148c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Pre-Session/Session I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2282a8a1386f368d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Pre-Session/Session I.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ec5e9105d924363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "419a432246a47d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Pre-Session/Session I.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "949d66f77c9f3f31",
+  "lastOpenFiles": [
+    "Session Notes/Session Layout.md",
+    "Session Notes/Pre-Session/Session I.md",
+    "Locations/Silrund/Flemming.md",
+    "Locations/Silrund",
+    "Locations",
+    "Welcome.md",
+    "PCs",
+    "Characters",
+    "Lore",
+    "Session Notes/Post-Session",
+    "Session Notes/Pre-Session",
+    "Session Notes"
+  ]
+}

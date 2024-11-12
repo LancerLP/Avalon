@@ -1,0 +1,40 @@
+[gd_scene load_steps=5 format=3 uid="uid://b44on6pn8l8je"]
+
+[ext_resource type="Script" path="res://Units/Party/Party.gd" id="1_vikqi"]
+[ext_resource type="Texture2D" uid="uid://kthvo4d1vqly" path="res://Sprites/PCs/Revaire.png" id="2_gm1hw"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_iul4o"]
+radius = 33.3766
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_no50d"]
+bg_color = Color(0.6, 0.6, 0.6, 0)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0.113725, 0.8, 0.8, 1)
+border_blend = true
+corner_radius_top_left = 37
+corner_radius_top_right = 37
+corner_radius_bottom_right = 37
+corner_radius_bottom_left = 37
+
+[node name="Revaire" type="CharacterBody2D"]
+script = ExtResource("1_vikqi")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_iul4o")
+debug_color = Color(0, 0.6, 0.701961, 0.278431)
+
+[node name="Revaire" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("2_gm1hw")
+
+[node name="Box" type="Panel" parent="."]
+offset_left = -37.0
+offset_top = -37.0
+offset_right = 37.0
+offset_bottom = 37.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_no50d")
+
+[connection signal="input_event" from="." to="." method="_on_input_event"]

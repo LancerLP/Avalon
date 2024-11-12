@@ -26,102 +26,220 @@ We write the year 502 of the Second Era, as the curtain falls upon the stage of 
 
 ### Scene: The Courtroom
 
-GM NOTE: Big, juicy fact for the GM only. Reminder of key motives, or major world events influencing the scene.
-
-
-
 SCENE CINEMATIC:
 
-We write the year 215 of the Third Era, as three figures, chained and 
+We write the year 215 of the Third Era and three figures are once again escorted through the obsidian halls in which they were sentenced for crimes, not a week prior.
+A hot gust of air emerges from the large doors to the court room as they are slowly opened.
+The last time you were here, a tribunal of noble Genasi let judgement descend upon you, but this time, the large room with its podiums and rows of seats is empty, save for a lone figure, casually resting in the seat reserved for the head judge. His legs crossed, hands clasped together, a smirk on his face. With a wave of his right hand the guards exit the room, leaving you alone with the figure. "I apologise for having you dragged out of your cells at such a late time... you are those that I requested, correct? Mr. O'Ronnel, Amaris, Revaire...?"   
 
 
-LOCATION: 
+##### Location: 
 
-- Where is it?
+Where:
+	Immonia, Lanmoth. Capital City.  The Obsidian Palace.
     
-- 3 short facts about the location
-    
-- Use the senses!!
-    
+Facts:
+1) The Obsidian Palace is the largest prison in Lanmoth.
+2) The courtroom has an elevated area for the judges.
+3) Behind each seat the wall contains either a stream of fire, water, dirt or air. Only the central seat contains all four.
 
-- Sight, smell, sounds
-    
-- [Humans have a multitude of senses](https://en.wikipedia.org/wiki/Sense)
-    
+Senses:
+	Smell: 
+		- Dusty air.
+		- Perfume that smells like cinder wood.
+	Sight:
+		- The man sitting on the chair above has medium length flaming red hair, that flows in a non existent wind.
+		- The man wears a symbol of the Lanmothian elite.
+	Sound:
+		- The faint rumbling of flames from the wall.
+		- Echoing footsteps on the obsidian floor.
+	Touch:
+		- Smooth surfaces.
 
-  
+##### Characters:
+***
+Grand Duke Ignisaire
+1) Relaxed, cocky.
+2) Fine clothes of red, back and white fabric. Accents of silver.
+3) Invokes unease in the party.
+Motivation: Get the party to sign the contract.
+Alignment: Lawful Evil
 
-WHO’S THERE:
+##### Stakes:
+The party could always be thrown back in prison again.
+Ignisaire wants an answer now.
+He doesn't have all the time to spare.
 
-- NPCs? Monsters?
-    
-- 3 short facts about the NPCs or monsters
-    
+##### Clues:
+- Ignisaire once knew a devil.
+- The party aren't the only ones sent on this expedition.
+- The desert isn't natural.
 
-- Use the senses again! Feel, smell, sight, sounds… taste?
-    
-
-- What MOTIVATES the NPCs or monsters?
-    
-
-- ESSENTIAL for quick improv. 
-    
-
-  
-MOVE IT FORWARD:
-
-- Any Natural Hazards?
-    
-- What is the pressure on the scene? What is the threat?
-    
-- Doom Clock
-    
-
-- How will this raise the stakes moving into the next scene? 
-    
-- How does the threat increase? How often? 
-    
-
-- CLUES
-    
-
-- What is something the players can connect to the Arch Villain or the Primary Antagonist later on
-    
-- What have they learned 
-    
-
-  
-
-DIALOG:
-
-- Essential dialog for the scene.
-    
-- Don’t overcook this! Just a couple of short one-liners to help you move things forward. 
-    
-
-- JEEVE STOBS (Ellis’ Uncle): There’s something you must know, now that you’ve proven yourself, young Ellis.
-    
-
-  
-
-POTENTIAL SKILL CHECKS
-
-- Environmental hazards?
-    
-- Charm / persuade?
-    
-- Perception / notice?
-    
-
-  
-
-BIG CLUE TO REVEAL - NO ROLLS REQUIRED
-
-- Knowledge / info to move the plot along, without revealing EVERYTHING
-    
-
-  
+##### Dialog:
+***
+Ignisaire:
+"I want you to find out what killed an entire civilization."
+***
+Ignisaire:
+"You're not the first ones with this task, but those that came before you have proven themselves... inadequate. I'm sure you won't disappoint me though."
+***
+Ignisaire:
+"Oh, one last thing. Can't have you running away as soon as you're out of here soooo... how about a contract?" "Learned that trick from an old acquaintance of mine~"
 
 ---
 
-**
+### Scene: The Boat
+
+SCENE CINEMATIC:
+
+Having accepted the offer, you once again find yourselves escorted by guards in obsidian armor.
+The symbols etched into your arms still burn and itch, though the sensation is slowly subsiding.
+Before you know it, you find yourselves standing in what appears to be a harbor deep beneath the Obsidian Palace. As you look out through the large opening where ships arrive and depart you see the darkness of night pushed back by a hundred lights emanating from the city of Immonia.
+
+##### Location: 
+
+Where:
+Immonia, Lanmoth. Capital City. The Obsidian Palace.
+    
+Facts:
+This is where all the resources needed to run the prison each day are shipped in.
+The boat they are approaching is called the Evertide
+
+Senses:
+	Smell:
+		- Salty ocean air
+	Sight:
+		- Guards everywhere
+		- Lots of ships
+		- Other groups of people in shackles
+	Sound:
+		- Guards shouting commands
+		- Sounds of cargo being moved
+	Touch:
+		- The floor is wet and slightly slippery
+		
+##### Characters:
+***
+Captain Tideus
+1) Stern
+2) Wears a blue and white uniform
+3) Water Genasi
+Motivation: Keep Order on the ship.
+Alignment: Lawful Neutral
+***
+Lenny, the cook
+1) Aasimar
+2) Indentured Servant
+3) Timid
+Motivation: Do his job, don't get into trouble
+Alignment: Lawful Good
+***
+Asher Dene
+1) Human
+2) Open personality
+3) Bad luck
+Motivation: Not die
+Alignment: Neutral Good
+***
+Arnold Girasi
+1) Human
+2) Happy
+3) Forgettable
+Motivation: Support the others
+Alignment: Neutral Good
+***
+Shannon P. Lewter
+1) Human
+2) Confrontational
+3) Knows healing magic
+Motivation: Spite the world
+Alignment: Chaotic Good
+***
+Elena Grubble
+1) Human
+2) Sneaky
+3) Very competent
+Motivation: Protect everyone
+Alignment: Lawful Neutral
+***
+Royce
+1) Half Orc
+2) Confrontational
+3) Aggressive
+Motivation: Get out of this
+Alignment Neutral Evil
+***
+Orin
+1) Gnome
+2) Laid back
+3) Sure of herself
+Motivation: Travel
+Alignment: True Neutral
+
+##### Ship Locations:
+***
+Captains Quarters
+***
+Mess Hall
+***
+Quarters
+***
+Deck
+
+##### Stakes:
+Might get shanked or thrown overboard if they start a fight.
+
+##### Clues:
+The other people here are incompetent. They won't survive very long in the desert.
+
+##### Dialog:
+***
+
+
+---
+
+### Scene: Travel
+
+Starts at 2 pm
+##### Encounters:
+1) Abandoned Campsite
+	6 pm
+	Torn tents, long since abandoned fireplace.
+	Some supplies as well as notes can be found. Seems like whoever was here decided to investigate a small outcropping of ancient ruins a bit further ahead.
+1) Minor Excavation
+	+6 from leaving last encounter
+	Some digging was done here, the remnants of ancient pillars still stick out of the sand.
+	Deeper inside the cave a small cache of items can be found. A hand sticks out from underneath some collapsed rocks.
+1) Random Encounter
+	+6 from leaving last encounter
+	Roll on this encounter table: https://www.reddit.com/r/DnDBehindTheScreen/comments/dj8lgn/random_desert_encounters/
+
+### Scene: The Oasis
+
+As you read the top of this last dune, a jolt of happiness shoots through you.
+More and more people join you and you all behold a truly magical sight in the near distance.
+Buildings, tents, people... water, palm trees. You finally arrived.
+And as you behold this sight, you spot the glaring reflection of a spyglass on top of one of the towers at the center of the city. They spotted you.
+
+##### Characters:
+***
+Ward Joyce
+1) Leader of the first expedition
+2) Happy to see more people
+3) Human 
+***
+Lillian Everett
+1) Tiefling
+2) Sorcerer
+3) Alchemist
+***
+Krun Omar
+1) Dwarf
+2) Armor smith
+3) In need of materials
+
+***
+Clover Dunn
+1) Hobgoblin
+2) Quartermaster
+3) Survivalist
